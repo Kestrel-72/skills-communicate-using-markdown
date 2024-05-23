@@ -2,3 +2,5 @@
 ## This is an `<h2>` header ##
 
 Add two headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
